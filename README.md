@@ -1,8 +1,8 @@
 <h2>Hi 👋, I'm Chafik Raden-ahmad</h1>
 <p>I’m an engineer passionate about technology and coding. I love building projects and learning new tools.</p>
-🌱 I’m currently learning **through an intensive full-stack development bootcamp to transition my career into the tech industry.**
-👨‍💻 All of my projects are available at [https://portfolio-chafik.vercel.app/](https://portfolio-chafik.vercel.app/)
-📫 How to reach me *chafikraden@gmail.com*
+🌱 I’m currently learning full-stack development through an intensive bootcamp as I transition my career into the tech industry. <br/>
+👨‍💻 All of my projects are available at <a href="https://portfolio-chafik.vercel.app">portfolio-chafik</a> <br/>
+📫 How to reach me <a href="mailto:chafikraden@gmail.com">chafikraden@gmail.com</a> <br/>
 
 <h4 align="left">🛠️ Tech Stack</h4>
 <p align="left"> 
