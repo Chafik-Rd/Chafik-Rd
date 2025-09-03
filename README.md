@@ -2,7 +2,7 @@
 <p>I’m an engineer passionate about technology and coding. I love building projects and learning new tools.</p>
 🌱 I’m currently learning full-stack development through an intensive bootcamp as I transition my career into the tech industry. <br/>
 👨‍💻 All of my projects are available at <a href="https://portfolio-chafik.vercel.app">portfolio-chafik</a> <br/>
-📫 How to reach me <a href="mailto:chafikraden@gmail.com">chafikraden@gmail.com</a> <br/>
+📫 How to reach me <a href="https://mail.google.com/mail/?view=cm&fs=1&to=chafikraden@gmail.com">chafikraden@gmail.com</a> <br/>
 
 <h4 align="left">🛠️ Tech Stack</h4>
 <p align="left">
