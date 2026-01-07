@@ -1,4 +1,4 @@
-Hi 👋, I'm Chafik Raden-ahmad
+# Hi 👋, I'm Chafik Raden-ahmad
 ___
 I’m an engineer passionate about technology and coding. I love building projects and learning new tools. <br/>
 🌱 I’m currently learning full-stack development through an intensive bootcamp as I transition my career into the tech industry. <br/>
