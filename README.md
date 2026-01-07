@@ -1,6 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Chafik Raden-ahmad
+Hi 👋, I'm Chafik Raden-ahmad
 ___
-I’m an engineer passionate about technology and coding. I love building projects and learning new tools.
+I’m an engineer passionate about technology and coding. I love building projects and learning new tools. <br/>
 🌱 I’m currently learning full-stack development through an intensive bootcamp as I transition my career into the tech industry. <br/>
 👨‍💻 All of my projects are available at <a href="https://portfolio-chafik.vercel.app">portfolio-chafik</a> <br/>
 📫 How to reach me <a href="https://mail.google.com/mail/?view=cm&fs=1&to=chafikraden@gmail.com">chafikraden@gmail.com</a> <br/>
